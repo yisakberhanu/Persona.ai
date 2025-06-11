@@ -29,6 +29,6 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
 
 yisberh123@gmail.com 
-(Please replace this with your actual email address before publishing)
+
 
 Last Updated: June 12, 2025
