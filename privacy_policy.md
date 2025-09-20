@@ -1,42 +1,51 @@
 Your Privacy Comes First.
-We believe your data is yours and yours alone. This policy outlines our commitment to keeping your information safe, private, and entirely on your device.
+We believe your data is yours and yours alone. This policy outlines our commitment to keeping your information safe, private, and under your control.
 
-🗄️
-Data & Storage
-🚫
-Third-Party Access
-🤝
-Information Sharing
-🔔
-App Permissions
-🔄
-Policy Changes
-✉️
-Contact Us
 Data Collection and Storage
-Key Takeaway: We do not collect, transmit, or store any personal data on external servers. Your information remains exclusively on your device.
+Key Takeaway: Your personal data is primarily stored on your device. We only collect and process specific information when you choose to use our optional services like Cloud Sync or the AI Coach.
 
-HabitFlow AI is fundamentally designed with your privacy at its core. This application is built to ensure your information remains under your full control.
-
+Momentum AI is designed with your privacy at its core. We are transparent about the data we handle and give you full control over it.
 
 What data is stored on my device?
-▼
-AI Integration: Crucially, the AI that provides predictions and smart suggestions operates entirely by processing the data already present locally on your device. **No personal habit or activity data is transmitted to external servers for any AI processing.**
+The following information is stored locally on your device:
 
-No Third-Party Access
-HabitFlow AI adheres to a strict policy against third-party data integration. We do not incorporate or utilize any third-party analytics tools, advertising SDKs, or other services that could potentially collect, transmit, or process your personal data. Your usage and habit data are retained exclusively within the confines of your device, ensuring maximum privacy.
+Habit Tracking Data: All habits, daily logs, goals, and progress.
 
-No Personal Information Sharing
-Given our unwavering commitment to not collecting or storing your personal information on our servers or via third-party services, it is our definitive policy that we do not share your data with anyone. Your data remains entirely on your device, under your complete and direct control.
+Task Management Data: All tasks, projects, and planning information.
 
-App Permissions
-The HabitFlow AI app may request specific permissions from your device to enable its core functionalities. For instance, it might require permission for **local notifications** to deliver timely habit reminders, or access to your device's calendar if you opt for integrated activity planning. These permissions are requested and utilized strictly for the essential operation of the app on your device and **do not grant us any means to access, collect, or transmit any personal data from your device for external use.**
+Gamification Data: Your XP, level, and badges.
 
-Changes to This Privacy Policy
+Health and Activity Data: Sleep duration, screen time, and other data collected with your explicit permission.
+
+What data is sent to the cloud?
+When you choose to enable Cloud Sync, the data listed above is securely backed up to your private Firebase account to ensure it's protected and available across your devices.
+
+What data is used by the AI?
+The AI Coach operates by processing your local habit and daily log data to provide personalized insights and correlations.
+
+Third-Party Access
+Key Takeaway: We do not sell your data or share it for advertising purposes. We only use essential services to run the app.
+
+We use the following third-party services, which may process some data on our behalf:
+
+Firebase Authentication: Used for secure sign-in with Google, email, or for anonymous accounts. We collect your name and email address if you use these services to manage your account.
+
+Google Fit / Health Connect: If you opt-in to automatic sleep tracking, we access sleep duration data from Health Connect to populate your daily log.
+
+Generative AI Service: The AI Coach feature uses a generative AI model to process your local data and provide conversational insights. Your data is sent to this service, but it is not retained or used to train the model.
+
+User Control and App Permissions
+Key Takeaway: You are always in control of your data.
+
+Permissions: The app may request permissions for Local Notifications to send you reminders and for Health Data to track your sleep with your explicit consent.
+
+Data Deletion: You can delete your account and all associated data at any time from the app's settings.
+
+Policy Changes
 We may update this Privacy Policy periodically to reflect any changes in our practices or to comply with evolving legal requirements. When updates occur, we will notify you by posting the revised Privacy Policy on this page. We strongly encourage you to review this Privacy Policy regularly to stay informed about how your data is handled.
 
 Contact Us
-Should you have any questions, concerns, or suggestions regarding this Privacy Policy or any aspect of your data handling within HabitFlow AI, please do not hesitate to contact us directly.
+Should you have any questions, concerns, or suggestions regarding this Privacy Policy or any aspect of your data handling within Momentum AI, please do not hesitate to contact us directly.
 
 Email: yisberh123@gmail.com
-Last Updated: June 12, 2025
+Last Updated: September 20, 2025
